@@ -1,9 +1,23 @@
-# Python Introduction
+# Python Programming
 
-These are the codes I wrote for the chapter 1 of Data Scientist Track at Dataquest.
+These are the codes and projects I wrote for the step 1 of Data Scientist Track at [Dataquest](https://www.dataquest.io).
 
-## Project
+## [Project] Explore U.S. Births
+[Explore U.S. Births]()
+
+## [Project] Exploring Gun Deaths in the US
+[Exploring Gun Deaths in the US]()
+
+## Python Programming Beginner
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
 []()
 
-## Exercises
-[]()
+## Python Programming Intermediate
