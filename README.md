@@ -17,7 +17,13 @@ These are the codes and projects I wrote for the step 1 of Data Scientist Track 
 []()
 []()
 []()
-[]()
-[]()
 
 ## Python Programming Intermediate
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
